@@ -2561,14 +2561,14 @@ input, select, textarea {
 					.box.style1 .image {
 						position: relative !important;
 						left: 0 !important;
-						width: 100% !important;
+						width: 50% !important;
 						height: auto !important;
 					}
 
 						.box.style1 .image img {
 							position: relative;
 							height: auto;
-							width: 100%;
+							width: 50%;
 						}
 
 					.box.style1 .inner {
