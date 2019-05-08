@@ -1543,6 +1543,11 @@ input, select, textarea {
 			margin: 0 2em 2em 0;
 		}
 
+		.image.right {
+			float: right;
+			margin: 0 0em 2em 2em;
+		}
+
 		.image.centered {
 			display: block;
 			margin: 0 0 2em 0;
